@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Video Converter</string>
+    <string name="action_settings">설정</string>
+    <string name="download">다운로드</string>
+    <string name="convert">변환</string>
+</resources>

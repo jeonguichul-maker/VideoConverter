@@ -1,0 +1,3 @@
+Error occurred during initialization of VM
+Could not find agent library instrument on the library path, with error: dlopen failed: cannot locate symbol "libiconv_open" referenced by "/data/data/com.termux/files/usr/lib/jvm/java-21-openjdk/lib/libinstrument.so"...
+Module java.instrument may be missing from runtime image.

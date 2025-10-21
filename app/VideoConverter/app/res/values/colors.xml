@@ -1,0 +1,8 @@
+<resources>
+    <color name="bg_gray">#F3F4F6</color>
+    <color name="card_gray">#E5E7EB</color>
+    <color name="soft_gray">#6B7280</color>
+    <color name="accent">#111827</color>
+    <color name="primary">#2563EB</color>
+    <color name="button_bg">#E5E7EB</color>
+</resources>
